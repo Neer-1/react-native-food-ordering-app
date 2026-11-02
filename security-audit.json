@@ -1,0 +1,680 @@
+{
+  "auditReportVersion": 2,
+  "vulnerabilities": {
+    "@expo/bunyan": {
+      "name": "@expo/bunyan",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "uuid"
+      ],
+      "effects": [
+        "@expo/rudder-sdk-node"
+      ],
+      "range": ">=3.0.0",
+      "nodes": [
+        "node_modules/@expo/bunyan"
+      ],
+      "fixAvailable": true,
+      "installed_versions": {
+        "node_modules/@expo/bunyan": "4.0.1"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/bunyan": [
+          "root",
+          "expo@52.0.49",
+          "@expo/cli@0.22.28",
+          "@expo/rudder-sdk-node@1.1.1",
+          "@expo/bunyan@4.0.1"
+        ]
+      }
+    },
+    "@expo/cli": {
+      "name": "@expo/cli",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "@expo/config",
+        "@expo/config-plugins",
+        "@expo/metro-config",
+        "@expo/prebuild-config",
+        "@expo/rudder-sdk-node"
+      ],
+      "effects": [],
+      "range": "<=0.0.0-canary-20231123-1b19f96-4 || >=0.0.1-canary-20231125-d600e44",
+      "nodes": [
+        "node_modules/@expo/cli"
+      ],
+      "fixAvailable": true,
+      "installed_versions": {
+        "node_modules/@expo/cli": "0.22.28"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/cli": [
+          "root",
+          "expo@52.0.49",
+          "@expo/cli@0.22.28"
+        ]
+      }
+    },
+    "@expo/config": {
+      "name": "@expo/config",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "@expo/config-plugins",
+        "deepmerge"
+      ],
+      "effects": [
+        "@expo/cli",
+        "@expo/metro-config",
+        "@expo/prebuild-config",
+        "expo",
+        "expo-constants"
+      ],
+      "range": "<=0.0.1-canary-20240418-8d74597 || >=3.3.23-alpha.0",
+      "nodes": [
+        "node_modules/@expo/config"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@expo/config": "10.0.11"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/config": [
+          "root",
+          "expo@52.0.49",
+          "@expo/config@10.0.11"
+        ]
+      }
+    },
+    "@expo/config-plugins": {
+      "name": "@expo/config-plugins",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "xcode"
+      ],
+      "effects": [
+        "@expo/cli",
+        "@expo/config",
+        "@expo/prebuild-config",
+        "expo"
+      ],
+      "range": "<=54.0.5 || 54.1.0-canary-20250930-9dc59d3 - 55.0.11 || 56.0.0-canary-20260212-4f61309 - 56.0.16 || 57.0.0-canary-20260526-13e89ca - 57.0.10 || 58.0.0-canary-20260806-8c2d007 - 58.0.9",
+      "nodes": [
+        "node_modules/@expo/config-plugins"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@expo/config-plugins": "9.0.17"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/config-plugins": [
+          "root",
+          "expo@52.0.49",
+          "@expo/config-plugins@9.0.17"
+        ]
+      }
+    },
+    "@expo/metro-config": {
+      "name": "@expo/metro-config",
+      "severity": "low",
+      "isDirect": false,
+      "via": [
+        "@expo/config"
+      ],
+      "effects": [],
+      "range": ">=0.19.0-canary-20240625-2333e70",
+      "nodes": [
+        "node_modules/@expo/metro-config"
+      ],
+      "fixAvailable": true,
+      "installed_versions": {
+        "node_modules/@expo/metro-config": "0.19.12"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/metro-config": [
+          "root",
+          "expo@52.0.49",
+          "@expo/metro-config@0.19.12"
+        ]
+      }
+    },
+    "@expo/prebuild-config": {
+      "name": "@expo/prebuild-config",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "@expo/config",
+        "@expo/config-plugins"
+      ],
+      "effects": [],
+      "range": "*",
+      "nodes": [
+        "node_modules/@expo/prebuild-config"
+      ],
+      "fixAvailable": true,
+      "installed_versions": {
+        "node_modules/@expo/prebuild-config": "8.2.0"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/prebuild-config": [
+          "root",
+          "expo@52.0.49",
+          "@expo/cli@0.22.28",
+          "@expo/prebuild-config@8.2.0"
+        ]
+      }
+    },
+    "@expo/rudder-sdk-node": {
+      "name": "@expo/rudder-sdk-node",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "@expo/bunyan",
+        "uuid"
+      ],
+      "effects": [
+        "@expo/cli"
+      ],
+      "range": "*",
+      "nodes": [
+        "node_modules/@expo/rudder-sdk-node"
+      ],
+      "fixAvailable": true,
+      "installed_versions": {
+        "node_modules/@expo/rudder-sdk-node": "1.1.1"
+      },
+      "dependency_paths": {
+        "node_modules/@expo/rudder-sdk-node": [
+          "root",
+          "expo@52.0.49",
+          "@expo/cli@0.22.28",
+          "@expo/rudder-sdk-node@1.1.1"
+        ]
+      }
+    },
+    "@react-navigation/bottom-tabs": {
+      "name": "@react-navigation/bottom-tabs",
+      "severity": "moderate",
+      "isDirect": true,
+      "via": [
+        "@react-navigation/elements",
+        "@react-navigation/native"
+      ],
+      "effects": [],
+      "range": "<=7.0.0-rc.37",
+      "nodes": [
+        "node_modules/@react-navigation/bottom-tabs"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/bottom-tabs",
+        "version": "7.21.0",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@react-navigation/bottom-tabs": "6.6.1"
+      },
+      "dependency_paths": {
+        "node_modules/@react-navigation/bottom-tabs": [
+          "root",
+          "@react-navigation/bottom-tabs@6.6.1"
+        ]
+      }
+    },
+    "@react-navigation/core": {
+      "name": "@react-navigation/core",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "query-string"
+      ],
+      "effects": [
+        "@react-navigation/native"
+      ],
+      "range": "<=7.22.0 || 8.0.0-alpha.0 - 8.0.0-alpha.9",
+      "nodes": [
+        "node_modules/@react-navigation/core"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/native",
+        "version": "7.5.1",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@react-navigation/core": "6.4.17"
+      },
+      "dependency_paths": {
+        "node_modules/@react-navigation/core": [
+          "root",
+          "@react-navigation/native@6.1.18",
+          "@react-navigation/core@6.4.17"
+        ]
+      }
+    },
+    "@react-navigation/elements": {
+      "name": "@react-navigation/elements",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "@react-navigation/native"
+      ],
+      "effects": [
+        "@react-navigation/bottom-tabs",
+        "@react-navigation/stack"
+      ],
+      "range": "<=2.0.0-rc.26",
+      "nodes": [
+        "node_modules/@react-navigation/elements"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/bottom-tabs",
+        "version": "7.21.0",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@react-navigation/elements": "1.3.31"
+      },
+      "dependency_paths": {
+        "node_modules/@react-navigation/elements": [
+          "root",
+          "@react-navigation/bottom-tabs@6.6.1",
+          "@react-navigation/elements@1.3.31"
+        ]
+      }
+    },
+    "@react-navigation/native": {
+      "name": "@react-navigation/native",
+      "severity": "moderate",
+      "isDirect": true,
+      "via": [
+        "@react-navigation/core"
+      ],
+      "effects": [
+        "@react-navigation/bottom-tabs",
+        "@react-navigation/elements",
+        "@react-navigation/stack"
+      ],
+      "range": "<=3.0.0-alpha.12 || 3.0.1 - 3.6.5 || 4.0.0-alpha.0 - 6.1.18",
+      "nodes": [
+        "node_modules/@react-navigation/native"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/native",
+        "version": "7.5.1",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@react-navigation/native": "6.1.18"
+      },
+      "dependency_paths": {
+        "node_modules/@react-navigation/native": [
+          "root",
+          "@react-navigation/native@6.1.18"
+        ]
+      }
+    },
+    "@react-navigation/stack": {
+      "name": "@react-navigation/stack",
+      "severity": "moderate",
+      "isDirect": true,
+      "via": [
+        "@react-navigation/elements",
+        "@react-navigation/native"
+      ],
+      "effects": [],
+      "range": "<=7.0.0-rc.29",
+      "nodes": [
+        "node_modules/@react-navigation/stack"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/stack",
+        "version": "7.12.1",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/@react-navigation/stack": "6.4.1"
+      },
+      "dependency_paths": {
+        "node_modules/@react-navigation/stack": [
+          "root",
+          "@react-navigation/stack@6.4.1"
+        ]
+      }
+    },
+    "decode-uri-component": {
+      "name": "decode-uri-component",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        {
+          "source": 1147955,
+          "name": "decode-uri-component",
+          "dependency": "decode-uri-component",
+          "title": "decode-uri-component: Denial of service via exponential decoding of malformed percent-encoded input",
+          "url": "https://github.com/advisories/GHSA-vcc3-ghjq-m6fr",
+          "severity": "moderate",
+          "cwe": [
+            "CWE-400",
+            "CWE-405",
+            "CWE-407",
+            "CWE-1176"
+          ],
+          "cvss": {
+            "score": 0,
+            "vectorString": null
+          },
+          "range": "<=0.4.2"
+        }
+      ],
+      "effects": [
+        "query-string"
+      ],
+      "range": "<=0.4.2",
+      "nodes": [
+        "node_modules/decode-uri-component"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/native",
+        "version": "7.5.1",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/decode-uri-component": "0.2.2"
+      },
+      "dependency_paths": {
+        "node_modules/decode-uri-component": [
+          "root",
+          "@react-navigation/native@6.1.18",
+          "@react-navigation/core@6.4.17",
+          "query-string@7.1.3",
+          "decode-uri-component@0.2.2"
+        ]
+      }
+    },
+    "deepmerge": {
+      "name": "deepmerge",
+      "severity": "low",
+      "isDirect": false,
+      "via": [
+        {
+          "source": 1243505,
+          "name": "deepmerge",
+          "dependency": "deepmerge",
+          "title": "deepmerge mergeObject() allows prototype poisoning of returned objects",
+          "url": "https://github.com/advisories/GHSA-gcqx-w48m-w2h4",
+          "severity": "low",
+          "cwe": [
+            "CWE-1321"
+          ],
+          "cvss": {
+            "score": 5.3,
+            "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+          },
+          "range": ">=4.2.0 <=4.3.1"
+        }
+      ],
+      "effects": [
+        "@expo/config"
+      ],
+      "range": ">=4.2.0",
+      "nodes": [
+        "node_modules/deepmerge"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/deepmerge": "4.3.1"
+      },
+      "dependency_paths": {
+        "node_modules/deepmerge": [
+          "root",
+          "expo@52.0.49",
+          "@expo/config@10.0.11",
+          "deepmerge@4.3.1"
+        ]
+      }
+    },
+    "expo": {
+      "name": "expo",
+      "severity": "moderate",
+      "isDirect": true,
+      "via": [
+        "@expo/cli",
+        "@expo/config",
+        "@expo/config-plugins",
+        "@expo/metro-config",
+        "expo-asset",
+        "expo-constants"
+      ],
+      "effects": [],
+      "range": "46.0.5 || >=47.0.0-alpha.1",
+      "nodes": [
+        "node_modules/expo"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/expo": "52.0.49"
+      },
+      "dependency_paths": {
+        "node_modules/expo": [
+          "root",
+          "expo@52.0.49"
+        ]
+      }
+    },
+    "expo-asset": {
+      "name": "expo-asset",
+      "severity": "low",
+      "isDirect": true,
+      "via": [
+        "expo-constants"
+      ],
+      "effects": [],
+      "range": "10.0.11-canary-20240625-2333e70 - 55.0.0-canary-20260223-05214f1 || 55.0.3-canary-20260128-67ce8d5 || 55.0.8-canary-20260424-7bedc9d - 55.0.8-canary-20260429-a5e59cf || 55.0.11-canary-20260327-0789fbc - 55.0.11-canary-20260402-9da566b || 56.0.0-canary-20260212-4f61309 - 56.0.0-canary-20260506-964f25d",
+      "nodes": [
+        "node_modules/expo-asset"
+      ],
+      "fixAvailable": {
+        "name": "expo-asset",
+        "version": "58.0.19",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/expo-asset": "11.0.5"
+      },
+      "dependency_paths": {
+        "node_modules/expo-asset": [
+          "root",
+          "expo-asset@11.0.5"
+        ]
+      }
+    },
+    "expo-constants": {
+      "name": "expo-constants",
+      "severity": "low",
+      "isDirect": false,
+      "via": [
+        "@expo/config"
+      ],
+      "effects": [
+        "expo",
+        "expo-asset"
+      ],
+      "range": "16.0.3-canary-20240625-2333e70 - 55.0.14 || 56.0.0-canary-20260212-4f61309 - 56.0.0-canary-20260506-964f25d",
+      "nodes": [
+        "node_modules/expo-constants"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/expo-constants": "17.0.8"
+      },
+      "dependency_paths": {
+        "node_modules/expo-constants": [
+          "root",
+          "expo@52.0.49",
+          "expo-constants@17.0.8"
+        ]
+      }
+    },
+    "query-string": {
+      "name": "query-string",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "decode-uri-component"
+      ],
+      "effects": [
+        "@react-navigation/core"
+      ],
+      "range": "5.0.0 - 9.4.1",
+      "nodes": [
+        "node_modules/query-string"
+      ],
+      "fixAvailable": {
+        "name": "@react-navigation/native",
+        "version": "7.5.1",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/query-string": "7.1.3"
+      },
+      "dependency_paths": {
+        "node_modules/query-string": [
+          "root",
+          "@react-navigation/native@6.1.18",
+          "@react-navigation/core@6.4.17",
+          "query-string@7.1.3"
+        ]
+      }
+    },
+    "uuid": {
+      "name": "uuid",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        {
+          "source": 1119441,
+          "name": "uuid",
+          "dependency": "uuid",
+          "title": "uuid: Missing buffer bounds check in v3/v5/v6 when buf is provided",
+          "url": "https://github.com/advisories/GHSA-w5hq-g745-h8pq",
+          "severity": "moderate",
+          "cwe": [
+            "CWE-787",
+            "CWE-1285"
+          ],
+          "cvss": {
+            "score": 7.5,
+            "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+          },
+          "range": "<11.1.1"
+        }
+      ],
+      "effects": [
+        "@expo/bunyan",
+        "@expo/rudder-sdk-node",
+        "xcode"
+      ],
+      "range": "<11.1.1",
+      "nodes": [
+        "node_modules/uuid",
+        "node_modules/xcode/node_modules/uuid"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/uuid": "8.3.2",
+        "node_modules/xcode/node_modules/uuid": "7.0.3"
+      },
+      "dependency_paths": {
+        "node_modules/uuid": [
+          "root",
+          "expo@52.0.49",
+          "@expo/cli@0.22.28",
+          "@expo/rudder-sdk-node@1.1.1",
+          "uuid@8.3.2"
+        ],
+        "node_modules/xcode/node_modules/uuid": [
+          "root",
+          "expo@52.0.49",
+          "@expo/config-plugins@9.0.17",
+          "xcode@3.0.1",
+          "uuid@7.0.3"
+        ]
+      }
+    },
+    "xcode": {
+      "name": "xcode",
+      "severity": "moderate",
+      "isDirect": false,
+      "via": [
+        "uuid"
+      ],
+      "effects": [
+        "@expo/config-plugins"
+      ],
+      "range": "0.9.2 - 3.0.2-nightly.20251125002453809.sha.e6b981ec",
+      "nodes": [
+        "node_modules/xcode"
+      ],
+      "fixAvailable": {
+        "name": "expo",
+        "version": "51.0.39",
+        "isSemVerMajor": true
+      },
+      "installed_versions": {
+        "node_modules/xcode": "3.0.1"
+      },
+      "dependency_paths": {
+        "node_modules/xcode": [
+          "root",
+          "expo@52.0.49",
+          "@expo/config-plugins@9.0.17",
+          "xcode@3.0.1"
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 4,
+      "moderate": 16,
+      "high": 0,
+      "critical": 0,
+      "total": 20
+    },
+    "dependencies": {
+      "prod": 852,
+      "dev": 0,
+      "optional": 12,
+      "peer": 43,
+      "peerOptional": 0,
+      "total": 906
+    }
+  }
+}

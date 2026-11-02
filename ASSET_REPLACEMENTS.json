@@ -1,0 +1,717 @@
+[
+  {
+    "old_reference": "assets/adaptive-icon.png",
+    "replacement": "assets/adaptive-icon.png",
+    "old_sha256": "5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8",
+    "sha256": "4fbd1f13b2525cb609b0b55c396917161dc7d00fe3d6810b28c3192ecddb99fc",
+    "bytes": 79582,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/Burgers/CrispyTofuBurger.jpg",
+    "replacement": "assets/Burgers/CrispyTofuBurger.jpg",
+    "old_sha256": "cb31d75adb38ac9f620cfdf05724bfe210f3734e68274e4f4566463d5342713d",
+    "sha256": "bcd6d577582e7940f197e11c8ac875c0fc91feab82ae95338bb6e83fcb1de363",
+    "bytes": 30739,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/Burgers/GrilledChickenBurger.jpg",
+    "replacement": "assets/Burgers/GrilledChickenBurger.jpg",
+    "old_sha256": "89d1b29b660f1b0b7a23c94df9a3d92f623fd47f7730c2262ecb190b6d5eebd7",
+    "sha256": "7eb82e2f6f47a39c738e67d56ae4b6589532761262a76fcb32867f0878395e31",
+    "bytes": 27785,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/Burgers/PaneerTikkaBurger.jpg",
+    "replacement": "assets/Burgers/PaneerTikkaBurger.jpg",
+    "old_sha256": "0f64701ab8a78871c8f74dbf79ef4f260f061dffadffe3f1605080d21e3ff561",
+    "sha256": "e645371874a6252db1a06d0c5c51180544968fa8bc9a9525faf45c1560d2a279",
+    "bytes": 28079,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/Burgers/SpicyChickenBurger.jpg",
+    "replacement": "assets/Burgers/SpicyChickenBurger.jpg",
+    "old_sha256": "08e790c6d99d97199a9e9a1c33e63d371e147ba8d73ab3dbe67f1cd4c4565736",
+    "sha256": "e645371874a6252db1a06d0c5c51180544968fa8bc9a9525faf45c1560d2a279",
+    "bytes": 28079,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/Burgers/VeggieDelightBurger.jpg",
+    "replacement": "assets/Burgers/VeggieDelightBurger.jpg",
+    "old_sha256": "165e3c3780397afd9ee7bf6fe38efa84425d1ed6281eaceea8db51a6e085bc2b",
+    "sha256": "e645371874a6252db1a06d0c5c51180544968fa8bc9a9525faf45c1560d2a279",
+    "bytes": 28079,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/combo/chickenburgercombo.jpeg",
+    "replacement": "assets/combo/chickenburgercombo.jpeg",
+    "old_sha256": "b96566c09bc941c328c3aaa680d8ffb9fbac2bb90a0a6194805a448526adbbd3",
+    "sha256": "9bd4370bf452153213261d538ba5d98ba446a85986012683f2565352d8e0525c",
+    "bytes": 43369,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/combo/grilledchickenwrapcombo.jpeg",
+    "replacement": "assets/combo/grilledchickenwrapcombo.jpeg",
+    "old_sha256": "ee40d46be1302fa56a47be4c4280e4085cc9121054d36015401b706bc1f369be",
+    "sha256": "9bd4370bf452153213261d538ba5d98ba446a85986012683f2565352d8e0525c",
+    "bytes": 43369,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/combo/Spicypaneerwrapcombo.jpeg",
+    "replacement": "assets/combo/Spicypaneerwrapcombo.jpeg",
+    "old_sha256": "33305120be800d11b8629a7b4b4894e284438a2f64203703bcd95d96e9d0ea72",
+    "sha256": "9bd4370bf452153213261d538ba5d98ba446a85986012683f2565352d8e0525c",
+    "bytes": 43369,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/combo/veggieburgercombo.jpeg",
+    "replacement": "assets/combo/veggieburgercombo.jpeg",
+    "old_sha256": "411a23c245ef3033b9908012d43c9c995119d98f70330c0d81a91a878c797439",
+    "sha256": "9bd4370bf452153213261d538ba5d98ba446a85986012683f2565352d8e0525c",
+    "bytes": 43369,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/desserts/applepie.jpeg",
+    "replacement": "assets/desserts/applepie.jpeg",
+    "old_sha256": "05f42548ca84d95d4c76bfd8924dc99af0c604d52aacc03ad5e0be730c0df58f",
+    "sha256": "241b2ee291b3251c3529b4026ea93c2f3834c03054060e4d9694c574eab0642c",
+    "bytes": 24171,
+    "dimensions": [
+      1000,
+      667
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/desserts/cheesecake.jpg",
+    "replacement": "assets/desserts/cheesecake.jpg",
+    "old_sha256": "427144350536283708606c521f221ad8ac5327a43e68274c92ae0c1682a09db4",
+    "sha256": "67ff7e4b37675b2ff5928b0ab6031b854ffe8fcf41994883f0aaac422b6cc3cd",
+    "bytes": 24655,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/desserts/chocolatebrownie.jpg",
+    "replacement": "assets/desserts/chocolatebrownie.jpg",
+    "old_sha256": "1229cf10fe4b56c8783ec9f1be8dfae3a486e5cccef9dd5b69e857463f0ee05c",
+    "sha256": "63167aaed26dd29581ed0fb2a2f58ee78329bd2ee6b3e117dd3f640cda2585eb",
+    "bytes": 24693,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/desserts/donut.jpg",
+    "replacement": "assets/desserts/donut.jpg",
+    "old_sha256": "aec5cb1452d2ea7ecede1b352d59e94a66556b06ab21cff7310f22a489b9f9e4",
+    "sha256": "d7dd91060cb7852b169846548b02b648800bcc18dd6b4b1162d1084e8697e818",
+    "bytes": 24658,
+    "dimensions": [
+      1024,
+      678
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/desserts/icecream.jpg",
+    "replacement": "assets/desserts/icecream.jpg",
+    "old_sha256": "52ca0d6c2e309b29120ffa97b55ff037ba677c337faf34068d7e9a393c2fcf26",
+    "sha256": "67ff7e4b37675b2ff5928b0ab6031b854ffe8fcf41994883f0aaac422b6cc3cd",
+    "bytes": 24655,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/drinks/icetea.jpg",
+    "replacement": "assets/drinks/icetea.jpg",
+    "old_sha256": "04e69cbd7788192b7aec92ff40958ac9cf7bf2049ad5dca6e82e97b5b5988d37",
+    "sha256": "8926ba40e14348a7ff48a7be22eee14342ee966022af5a59cefea1446ad7530f",
+    "bytes": 30688,
+    "dimensions": [
+      819,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/drinks/juice.jpg",
+    "replacement": "assets/drinks/juice.jpg",
+    "old_sha256": "fb05ee30d97dba908bddb07ab353812021b5b9e1e17631db6970723a58cc6a91",
+    "sha256": "2b85ef5dce08cf696abe7cb37d64b34e3103849973e2bb55e1da943d3baef680",
+    "bytes": 25448,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/drinks/milkshake.jpg",
+    "replacement": "assets/drinks/milkshake.jpg",
+    "old_sha256": "d12c9ad0dacb5474d4759610596c1dbba80f37dc2aa861effba18e0eec1c6c37",
+    "sha256": "438339f1a360d1048e8dd2ae4a724b227d2ac751e1eeced39a88a297d7eaf2ed",
+    "bytes": 25530,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/drinks/softdrinks.jpg",
+    "replacement": "assets/drinks/softdrinks.jpg",
+    "old_sha256": "45f34427ce44e9324c01d9714556a3c3eff7e01e045cad8384b49cfa99a56743",
+    "sha256": "2b85ef5dce08cf696abe7cb37d64b34e3103849973e2bb55e1da943d3baef680",
+    "bytes": 25448,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/drinks/water.jpg",
+    "replacement": "assets/drinks/water.jpg",
+    "old_sha256": "1fdfbd9b6c38e164acf39da89b942204490f7a64706f69c25b4045101e5590ca",
+    "sha256": "4c66d68b2b9f21d72a3982cf8d96fe9225b3a97950767ed1d70396b5066f4732",
+    "bytes": 37278,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/favicon.png",
+    "replacement": "assets/favicon.png",
+    "old_sha256": "24272cdaeff82cc5facdaccd982a6f05b60c4504704bbf94c19a6388659880bb",
+    "sha256": "c11e622dd18c6b1f03298817f948370ccc1c966678a05c9fbc7d541683d7a562",
+    "bytes": 3068,
+    "dimensions": [
+      48,
+      48
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icon.png",
+    "replacement": "assets/icon.png",
+    "old_sha256": "74c64047eb557b1341bba7a2831eedde9ddb705e6451a9ad9f5552bf558f13de",
+    "sha256": "4fbd1f13b2525cb609b0b55c396917161dc7d00fe3d6810b28c3192ecddb99fc",
+    "bytes": 79582,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Burgers.png",
+    "replacement": "assets/icons/Burgers.png",
+    "old_sha256": "735aae3d2dd1c92c37425c278fa5bf89062119b64b0c700df9fb2932f6f3ba85",
+    "sha256": "78aefb15da9c8f209d1a96a340c978200b029047b6cfb126a4f77ffc16b5faae",
+    "bytes": 4627,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Desserts.png",
+    "replacement": "assets/icons/Desserts.png",
+    "old_sha256": "5111fcb2501179b43fa1fabf3a4b49ecd1ea7ef8fe5780ecd71a85e0a5c09928",
+    "sha256": "ef6b3c7d2184f78de8a2496b30eeb640012446b98313fe532a2ace8c1dc7e6c5",
+    "bytes": 4549,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Drinks.png",
+    "replacement": "assets/icons/Drinks.png",
+    "old_sha256": "2600e5df7327cf3b051c6ad82c60365507ad5cb194d4b08f3202cbf55be06286",
+    "sha256": "ec7e4ff956019f39d7e73091ceb9673c8f743ef849c6d350dc8cee7287596a86",
+    "bytes": 4738,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Fries&Sides.png",
+    "replacement": "assets/icons/Fries&Sides.png",
+    "old_sha256": "0d96069a749788cb2c0338e6621f57369011d8dc634d636f11d435f6f4eb650e",
+    "sha256": "7ee8c2426ab2c6e67fad781fe626319125d2c6e12300777dad409b1208ebfbf6",
+    "bytes": 4450,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/MealCombos.png",
+    "replacement": "assets/icons/MealCombos.png",
+    "old_sha256": "852a7f2505354f6be69c9575ffb7cd44a2881a807d11ec7288f5ff768de334ed",
+    "sha256": "5235d1650c6392271e6210af6731cbf22bc560c2aabaaf6a05b9893cddbe093f",
+    "bytes": 5133,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Pizzas.png",
+    "replacement": "assets/icons/Pizzas.png",
+    "old_sha256": "fcef63d4f771bbdb527ae4bc00aa8095799d68b3ca979c1c437c5439ce9449e7",
+    "sha256": "54f17861cbc577245976c9d1ca560050cb3264b46e337c3a6a660f6ab4b58b6a",
+    "bytes": 6662,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Salads.png",
+    "replacement": "assets/icons/Salads.png",
+    "old_sha256": "5d2eb2e45eaa266423c950e145d3b27508008e76d6698e4e6ffc3b8f1282fe7f",
+    "sha256": "2f243a62620166c2e67fb3412520acdac0920a6057d27c84bfc068d21f5e8693",
+    "bytes": 6171,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/icons/Wraps&sanwiches.png",
+    "replacement": "assets/icons/Wraps&sanwiches.png",
+    "old_sha256": "b4c44dce24c6831e3b49a04b5b10cc26eca85a0351ced5041480c1223994ce2c",
+    "sha256": "e413d0dc07968a26c568f5335d496a6c444e6fe2bfad64987e403bf48d0d1cc0",
+    "bytes": 5717,
+    "dimensions": [
+      512,
+      512
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/pizzas/ChickenBBQPizza.jpg",
+    "replacement": "assets/pizzas/ChickenBBQPizza.jpg",
+    "old_sha256": "5f473d5470c2967bc013d546ee6302fba0cea3f184e1aed865bbc714adb14f59",
+    "sha256": "efc3de5524edd8a0829562d75532d19599fbc073d8af9e854f39c363173e4c82",
+    "bytes": 37816,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/pizzas/MargheritaPizza.jpg",
+    "replacement": "assets/pizzas/MargheritaPizza.jpg",
+    "old_sha256": "2f3390365be537504e57cd6cbf6668b048d06cff7b80ede8213f4feb671f707e",
+    "sha256": "20b39a69e8b5a5391240dc3bf75bd2d4568e0ffda7ccf278d911ee8436a62c86",
+    "bytes": 44738,
+    "dimensions": [
+      1024,
+      790
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/pizzas/MushroomPizza.jpg",
+    "replacement": "assets/pizzas/MushroomPizza.jpg",
+    "old_sha256": "5e67c0cd3ae74a9eb21e94dfccd11336b1eb333f27989e594f8c4501bf3dde33",
+    "sha256": "2ddd32ebd65f8a95ac636ae705089c65f80021ec09d3d74eb11abd795c9440fd",
+    "bytes": 38753,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/pizzas/MushroomSpinachPizza.jpg",
+    "replacement": "assets/pizzas/MushroomSpinachPizza.jpg",
+    "old_sha256": "1ee77782ad6147157337e64e82d3c1c6c929e36b82cca6d58b836d6535d4f935",
+    "sha256": "8717a0506e23bf6960cf106af09f220870be3ef51cbc4fb4216daf5a0c125f70",
+    "bytes": 42575,
+    "dimensions": [
+      1024,
+      756
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/pizzas/PaneerPizza.jpg",
+    "replacement": "assets/pizzas/PaneerPizza.jpg",
+    "old_sha256": "a25bf0da31ae308b739111a74dfab74322119e64de49f4a7e3d09b69d88ed023",
+    "sha256": "4a28e20284f3f42fefccfb2f712955fcacf477519455097024dcf4aea1f2ae3f",
+    "bytes": 37654,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/pizzas/VeggieSupremePizza.jpg",
+    "replacement": "assets/pizzas/VeggieSupremePizza.jpg",
+    "old_sha256": "be8ca289ff1e69b6977b6345b12f528288d7daca0653924b2bf8155a31816065",
+    "sha256": "c6bfa381942879574159ca0b0d399698bf886164170a34e85185cf797cce5eba",
+    "bytes": 45616,
+    "dimensions": [
+      819,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/salad/caesarsalad.jpg",
+    "replacement": "assets/salad/caesarsalad.jpg",
+    "old_sha256": "3c4cecb42d7bcbf968db6fadbf013fa3929992d6a952dda11178cb6a10d81a2a",
+    "sha256": "d6de4dadb9232b2eb0a318af7787c52f70ba2a9c9c37bdd59d9544d22608ced5",
+    "bytes": 31953,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/salad/chickencaesarsalad.jpg",
+    "replacement": "assets/salad/chickencaesarsalad.jpg",
+    "old_sha256": "3f4c81c375fbe59591af23c4cc5d26283db8a0585fac8748669ac1698a7f4898",
+    "sha256": "f0f4a0fdf99bf1e34ddb23608ce6368012b1eac420a191fe2757c1570799191c",
+    "bytes": 28729,
+    "dimensions": [
+      1024,
+      590
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/salad/chickpeaquinoasalad.jpeg",
+    "replacement": "assets/salad/chickpeaquinoasalad.jpeg",
+    "old_sha256": "9e94676d49691ca079e82af8b7e1aac2e3c5e0e3996c728227997069edfc6ab5",
+    "sha256": "5dff2beffe7e2553a1038dac831f0b6fb5f3530daf95ca627601350e5a8af20f",
+    "bytes": 30377,
+    "dimensions": [
+      1000,
+      667
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/salad/gardensalad.jpg",
+    "replacement": "assets/salad/gardensalad.jpg",
+    "old_sha256": "631959becc84a52776c4e349143133030b10d63a3d0b1c28a92c631daa25b3d8",
+    "sha256": "242f0f745ec645eef76e242b7a5d478a1c25a6b6d1314598e293e0e7399bcdf9",
+    "bytes": 32998,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/salad/grilledchickensalad.jpg",
+    "replacement": "assets/salad/grilledchickensalad.jpg",
+    "old_sha256": "dbd4140254e322bffd3489c6977e0ae260da6fb48e1e5a6e47dcaedb28d2541f",
+    "sha256": "d5904e8cedd4c9ffbe0abf50c68a10e10f8f24945524de5db0d14f3e36c98a9c",
+    "bytes": 43194,
+    "dimensions": [
+      1024,
+      968
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/salad/sweetcornsalad.jpeg",
+    "replacement": "assets/salad/sweetcornsalad.jpeg",
+    "old_sha256": "0f2961f9c405efec3ad8083633747785fc4e8c4d5168dccd14888684c4d7609b",
+    "sha256": "b16a02419db0c32f01c0c231432e281b7d698f7f0d45bc489b7b342e50a34700",
+    "bytes": 30704,
+    "dimensions": [
+      1000,
+      667
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/sides/CurlyFries.jpg",
+    "replacement": "assets/sides/CurlyFries.jpg",
+    "old_sha256": "d267b56dfdab2510183f90ea4abe217052d5fa3ac34359f94fc776c6df6437cd",
+    "sha256": "2a5f774948711febbb10df26d03f064fc69c60e92ecffd51aa66c27e7a5ee8b9",
+    "bytes": 26748,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/sides/FrenchFries.jpg",
+    "replacement": "assets/sides/FrenchFries.jpg",
+    "old_sha256": "c478eebd12a85fc6405d726b72ecf269b71821566c025bc1fa1488358ebe7e51",
+    "sha256": "db717ece01c02eeb0f321e7826e38da321e41f3faf602349b689815a3726e6fc",
+    "bytes": 33187,
+    "dimensions": [
+      1024,
+      819
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/sides/MozzarellaSticks.jpg",
+    "replacement": "assets/sides/MozzarellaSticks.jpg",
+    "old_sha256": "da113288326d4d535ad0bfc378393584e07fba17a180c57459f64d7a1fd35355",
+    "sha256": "7c7292b9b4b1271028649a18badbaf033540fd5b56fb71c3a41f7954d920985a",
+    "bytes": 27007,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/sides/OnionRings.jpg",
+    "replacement": "assets/sides/OnionRings.jpg",
+    "old_sha256": "8b6c5ed00971c35cf0b2d8b25caf31fe2af2e6540a12c43f2c60adb9850b6362",
+    "sha256": "ddea943fb305023d396181ef9ec6db66f9023e5f25b9e416dc884752f497c322",
+    "bytes": 26539,
+    "dimensions": [
+      1024,
+      683
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/sides/SweetPotatoFries.jpg",
+    "replacement": "assets/sides/SweetPotatoFries.jpg",
+    "old_sha256": "01db91b0d91d4eedc523c32db47aa21ce98359bd8589d70e40a89f8a02908fdf",
+    "sha256": "eddc302873fa0793adf25fea01c9ea859cbc8002b5f3f3aa6b397510166977db",
+    "bytes": 26937,
+    "dimensions": [
+      683,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/snack-icon.png",
+    "replacement": "assets/snack-icon.png",
+    "old_sha256": "d2d428fb3f16fd545f84f8482d971e393beacdad7a8b37db8da366170225945a",
+    "sha256": "6d55e2e4179d6289c454389259afd8670a765dc226efccf033bf58c67a3ad94f",
+    "bytes": 21590,
+    "dimensions": [
+      257,
+      258
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/splash-icon.png",
+    "replacement": "assets/splash-icon.png",
+    "old_sha256": "5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8",
+    "sha256": "4fbd1f13b2525cb609b0b55c396917161dc7d00fe3d6810b28c3192ecddb99fc",
+    "bytes": 79582,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/wrap/eggsaladsandwich.jpeg",
+    "replacement": "assets/wrap/eggsaladsandwich.jpeg",
+    "old_sha256": "14a303570a7fdf18e7fd0a51462ae226e5ccd2a20dda2e7c1b66822c07d0748c",
+    "sha256": "095ae351a06d3eceed3b312527180cb01df4fb11d08351c78a9b7054270eb9e3",
+    "bytes": 25799,
+    "dimensions": [
+      1000,
+      560
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/wrap/grilledchickenwrap.jpeg",
+    "replacement": "assets/wrap/grilledchickenwrap.jpeg",
+    "old_sha256": "072b5a5050206d816ae1cb7cd3f7d8fd7a64f45899e8de8f4c1630c319c7b3bc",
+    "sha256": "9531992bf409f8d5530f9a7ff91de281fee0e7281c7039fbfd93d0cb6143a0ea",
+    "bytes": 30864,
+    "dimensions": [
+      1000,
+      667
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/wrap/PaneerWrap.jpeg",
+    "replacement": "assets/wrap/PaneerWrap.jpeg",
+    "old_sha256": "8b2839082e8afbbeb90312223d95d28ae15d15658871465dc3fecd539c61df8b",
+    "sha256": "12897b82bb2a10d0bb96b6e769540ceeea81466d6b8f2612f039bf1ae684efe8",
+    "bytes": 30855,
+    "dimensions": [
+      1000,
+      668
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/wrap/spicychickenwrap.jpeg",
+    "replacement": "assets/wrap/spicychickenwrap.jpeg",
+    "old_sha256": "18e516c9cdf5d69611087a780d0f1513b652da0d7f0ffd74e70acf7d794f3667",
+    "sha256": "819fe161acefe9df07c316a8faa5b49aa92678a8c2d011e0614b2237afe941d1",
+    "bytes": 36205,
+    "dimensions": [
+      1000,
+      778
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/wrap/SpicyPaneerWrap.jpeg",
+    "replacement": "assets/wrap/SpicyPaneerWrap.jpeg",
+    "old_sha256": "a30c76f0c65edd7dfc444ac675122b3f7b939e3fcd49ccbac34a119d18dc1ef0",
+    "sha256": "9531992bf409f8d5530f9a7ff91de281fee0e7281c7039fbfd93d0cb6143a0ea",
+    "bytes": 30864,
+    "dimensions": [
+      1000,
+      667
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  },
+  {
+    "old_reference": "assets/wrap/veggiesandwich.jpeg",
+    "replacement": "assets/wrap/veggiesandwich.jpeg",
+    "old_sha256": "d99322076019a2d39698d1613ee29d60cf8e0601bdcdb17eb9485017e85f99a2",
+    "sha256": "2823c4f966767586f8c0898b2374345b7e31a8f487f8b65ef2f7dca4ec34341c",
+    "bytes": 25168,
+    "dimensions": [
+      1000,
+      560
+    ],
+    "method": "Original deterministic geometric drawing; no source image read or traced",
+    "verification": "Image decode, dimensions, no EXIF, changed hash passed"
+  }
+]

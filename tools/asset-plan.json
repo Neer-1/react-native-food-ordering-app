@@ -1,0 +1,662 @@
+[
+  {
+    "path": "assets/adaptive-icon.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8",
+    "old_size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "path": "assets/Burgers/CrispyTofuBurger.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "cb31d75adb38ac9f620cfdf05724bfe210f3734e68274e4f4566463d5342713d",
+    "old_size": [
+      3840,
+      5760
+    ]
+  },
+  {
+    "path": "assets/Burgers/GrilledChickenBurger.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "89d1b29b660f1b0b7a23c94df9a3d92f623fd47f7730c2262ecb190b6d5eebd7",
+    "old_size": [
+      7950,
+      5302
+    ]
+  },
+  {
+    "path": "assets/Burgers/PaneerTikkaBurger.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "0f64701ab8a78871c8f74dbf79ef4f260f061dffadffe3f1605080d21e3ff561",
+    "old_size": [
+      2624,
+      3936
+    ]
+  },
+  {
+    "path": "assets/Burgers/SpicyChickenBurger.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "08e790c6d99d97199a9e9a1c33e63d371e147ba8d73ab3dbe67f1cd4c4565736",
+    "old_size": [
+      3949,
+      5924
+    ]
+  },
+  {
+    "path": "assets/Burgers/VeggieDelightBurger.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "165e3c3780397afd9ee7bf6fe38efa84425d1ed6281eaceea8db51a6e085bc2b",
+    "old_size": [
+      4000,
+      6000
+    ]
+  },
+  {
+    "path": "assets/combo/chickenburgercombo.jpeg",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "b96566c09bc941c328c3aaa680d8ffb9fbac2bb90a0a6194805a448526adbbd3",
+    "old_size": [
+      2048,
+      2048
+    ]
+  },
+  {
+    "path": "assets/combo/grilledchickenwrapcombo.jpeg",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "ee40d46be1302fa56a47be4c4280e4085cc9121054d36015401b706bc1f369be",
+    "old_size": [
+      2048,
+      2048
+    ]
+  },
+  {
+    "path": "assets/combo/Spicypaneerwrapcombo.jpeg",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "33305120be800d11b8629a7b4b4894e284438a2f64203703bcd95d96e9d0ea72",
+    "old_size": [
+      2048,
+      2048
+    ]
+  },
+  {
+    "path": "assets/combo/veggieburgercombo.jpeg",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "411a23c245ef3033b9908012d43c9c995119d98f70330c0d81a91a878c797439",
+    "old_size": [
+      2048,
+      2048
+    ]
+  },
+  {
+    "path": "assets/desserts/applepie.jpeg",
+    "size": [
+      1000,
+      667
+    ],
+    "old_sha256": "05f42548ca84d95d4c76bfd8924dc99af0c604d52aacc03ad5e0be730c0df58f",
+    "old_size": [
+      1000,
+      667
+    ]
+  },
+  {
+    "path": "assets/desserts/cheesecake.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "427144350536283708606c521f221ad8ac5327a43e68274c92ae0c1682a09db4",
+    "old_size": [
+      4000,
+      2667
+    ]
+  },
+  {
+    "path": "assets/desserts/chocolatebrownie.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "1229cf10fe4b56c8783ec9f1be8dfae3a486e5cccef9dd5b69e857463f0ee05c",
+    "old_size": [
+      4000,
+      6000
+    ]
+  },
+  {
+    "path": "assets/desserts/donut.jpg",
+    "size": [
+      1024,
+      678
+    ],
+    "old_sha256": "aec5cb1452d2ea7ecede1b352d59e94a66556b06ab21cff7310f22a489b9f9e4",
+    "old_size": [
+      4928,
+      3264
+    ]
+  },
+  {
+    "path": "assets/desserts/icecream.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "52ca0d6c2e309b29120ffa97b55ff037ba677c337faf34068d7e9a393c2fcf26",
+    "old_size": [
+      4896,
+      3264
+    ]
+  },
+  {
+    "path": "assets/drinks/icetea.jpg",
+    "size": [
+      819,
+      1024
+    ],
+    "old_sha256": "04e69cbd7788192b7aec92ff40958ac9cf7bf2049ad5dca6e82e97b5b5988d37",
+    "old_size": [
+      2899,
+      3624
+    ]
+  },
+  {
+    "path": "assets/drinks/juice.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "fb05ee30d97dba908bddb07ab353812021b5b9e1e17631db6970723a58cc6a91",
+    "old_size": [
+      3865,
+      5797
+    ]
+  },
+  {
+    "path": "assets/drinks/milkshake.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "d12c9ad0dacb5474d4759610596c1dbba80f37dc2aa861effba18e0eec1c6c37",
+    "old_size": [
+      6000,
+      4000
+    ]
+  },
+  {
+    "path": "assets/drinks/softdrinks.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "45f34427ce44e9324c01d9714556a3c3eff7e01e045cad8384b49cfa99a56743",
+    "old_size": [
+      3456,
+      5184
+    ]
+  },
+  {
+    "path": "assets/drinks/water.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "1fdfbd9b6c38e164acf39da89b942204490f7a64706f69c25b4045101e5590ca",
+    "old_size": [
+      4096,
+      4096
+    ]
+  },
+  {
+    "path": "assets/favicon.png",
+    "size": [
+      48,
+      48
+    ],
+    "old_sha256": "24272cdaeff82cc5facdaccd982a6f05b60c4504704bbf94c19a6388659880bb",
+    "old_size": [
+      48,
+      48
+    ]
+  },
+  {
+    "path": "assets/icon.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "74c64047eb557b1341bba7a2831eedde9ddb705e6451a9ad9f5552bf558f13de",
+    "old_size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "path": "assets/icons/Burgers.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "735aae3d2dd1c92c37425c278fa5bf89062119b64b0c700df9fb2932f6f3ba85",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/Desserts.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "5111fcb2501179b43fa1fabf3a4b49ecd1ea7ef8fe5780ecd71a85e0a5c09928",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/Drinks.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "2600e5df7327cf3b051c6ad82c60365507ad5cb194d4b08f3202cbf55be06286",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/Fries&Sides.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "0d96069a749788cb2c0338e6621f57369011d8dc634d636f11d435f6f4eb650e",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/MealCombos.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "852a7f2505354f6be69c9575ffb7cd44a2881a807d11ec7288f5ff768de334ed",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/Pizzas.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "fcef63d4f771bbdb527ae4bc00aa8095799d68b3ca979c1c437c5439ce9449e7",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/Salads.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "5d2eb2e45eaa266423c950e145d3b27508008e76d6698e4e6ffc3b8f1282fe7f",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/icons/Wraps&sanwiches.png",
+    "size": [
+      512,
+      512
+    ],
+    "old_sha256": "b4c44dce24c6831e3b49a04b5b10cc26eca85a0351ced5041480c1223994ce2c",
+    "old_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "assets/pizzas/ChickenBBQPizza.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "5f473d5470c2967bc013d546ee6302fba0cea3f184e1aed865bbc714adb14f59",
+    "old_size": [
+      3600,
+      2400
+    ]
+  },
+  {
+    "path": "assets/pizzas/MargheritaPizza.jpg",
+    "size": [
+      1024,
+      790
+    ],
+    "old_sha256": "2f3390365be537504e57cd6cbf6668b048d06cff7b80ede8213f4feb671f707e",
+    "old_size": [
+      4479,
+      3456
+    ]
+  },
+  {
+    "path": "assets/pizzas/MushroomPizza.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "5e67c0cd3ae74a9eb21e94dfccd11336b1eb333f27989e594f8c4501bf3dde33",
+    "old_size": [
+      6240,
+      4160
+    ]
+  },
+  {
+    "path": "assets/pizzas/MushroomSpinachPizza.jpg",
+    "size": [
+      1024,
+      756
+    ],
+    "old_sha256": "1ee77782ad6147157337e64e82d3c1c6c929e36b82cca6d58b836d6535d4f935",
+    "old_size": [
+      4943,
+      3648
+    ]
+  },
+  {
+    "path": "assets/pizzas/PaneerPizza.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "a25bf0da31ae308b739111a74dfab74322119e64de49f4a7e3d09b69d88ed023",
+    "old_size": [
+      5304,
+      7952
+    ]
+  },
+  {
+    "path": "assets/pizzas/VeggieSupremePizza.jpg",
+    "size": [
+      819,
+      1024
+    ],
+    "old_sha256": "be8ca289ff1e69b6977b6345b12f528288d7daca0653924b2bf8155a31816065",
+    "old_size": [
+      2037,
+      2547
+    ]
+  },
+  {
+    "path": "assets/salad/caesarsalad.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "3c4cecb42d7bcbf968db6fadbf013fa3929992d6a952dda11178cb6a10d81a2a",
+    "old_size": [
+      5711,
+      3807
+    ]
+  },
+  {
+    "path": "assets/salad/chickencaesarsalad.jpg",
+    "size": [
+      1024,
+      590
+    ],
+    "old_sha256": "3f4c81c375fbe59591af23c4cc5d26283db8a0585fac8748669ac1698a7f4898",
+    "old_size": [
+      4758,
+      2742
+    ]
+  },
+  {
+    "path": "assets/salad/chickpeaquinoasalad.jpeg",
+    "size": [
+      1000,
+      667
+    ],
+    "old_sha256": "9e94676d49691ca079e82af8b7e1aac2e3c5e0e3996c728227997069edfc6ab5",
+    "old_size": [
+      1000,
+      667
+    ]
+  },
+  {
+    "path": "assets/salad/gardensalad.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "631959becc84a52776c4e349143133030b10d63a3d0b1c28a92c631daa25b3d8",
+    "old_size": [
+      6000,
+      4000
+    ]
+  },
+  {
+    "path": "assets/salad/grilledchickensalad.jpg",
+    "size": [
+      1024,
+      968
+    ],
+    "old_sha256": "dbd4140254e322bffd3489c6977e0ae260da6fb48e1e5a6e47dcaedb28d2541f",
+    "old_size": [
+      2618,
+      2476
+    ]
+  },
+  {
+    "path": "assets/salad/sweetcornsalad.jpeg",
+    "size": [
+      1000,
+      667
+    ],
+    "old_sha256": "0f2961f9c405efec3ad8083633747785fc4e8c4d5168dccd14888684c4d7609b",
+    "old_size": [
+      1000,
+      667
+    ]
+  },
+  {
+    "path": "assets/sides/CurlyFries.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "d267b56dfdab2510183f90ea4abe217052d5fa3ac34359f94fc776c6df6437cd",
+    "old_size": [
+      3456,
+      5184
+    ]
+  },
+  {
+    "path": "assets/sides/FrenchFries.jpg",
+    "size": [
+      1024,
+      819
+    ],
+    "old_sha256": "c478eebd12a85fc6405d726b72ecf269b71821566c025bc1fa1488358ebe7e51",
+    "old_size": [
+      6000,
+      4800
+    ]
+  },
+  {
+    "path": "assets/sides/MozzarellaSticks.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "da113288326d4d535ad0bfc378393584e07fba17a180c57459f64d7a1fd35355",
+    "old_size": [
+      5431,
+      3621
+    ]
+  },
+  {
+    "path": "assets/sides/OnionRings.jpg",
+    "size": [
+      1024,
+      683
+    ],
+    "old_sha256": "8b6c5ed00971c35cf0b2d8b25caf31fe2af2e6540a12c43f2c60adb9850b6362",
+    "old_size": [
+      8192,
+      5464
+    ]
+  },
+  {
+    "path": "assets/sides/SweetPotatoFries.jpg",
+    "size": [
+      683,
+      1024
+    ],
+    "old_sha256": "01db91b0d91d4eedc523c32db47aa21ce98359bd8589d70e40a89f8a02908fdf",
+    "old_size": [
+      4000,
+      6000
+    ]
+  },
+  {
+    "path": "assets/snack-icon.png",
+    "size": [
+      257,
+      258
+    ],
+    "old_sha256": "d2d428fb3f16fd545f84f8482d971e393beacdad7a8b37db8da366170225945a",
+    "old_size": [
+      257,
+      258
+    ]
+  },
+  {
+    "path": "assets/splash-icon.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "old_sha256": "5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8",
+    "old_size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "path": "assets/wrap/eggsaladsandwich.jpeg",
+    "size": [
+      1000,
+      560
+    ],
+    "old_sha256": "14a303570a7fdf18e7fd0a51462ae226e5ccd2a20dda2e7c1b66822c07d0748c",
+    "old_size": [
+      1000,
+      560
+    ]
+  },
+  {
+    "path": "assets/wrap/grilledchickenwrap.jpeg",
+    "size": [
+      1000,
+      667
+    ],
+    "old_sha256": "072b5a5050206d816ae1cb7cd3f7d8fd7a64f45899e8de8f4c1630c319c7b3bc",
+    "old_size": [
+      1000,
+      667
+    ]
+  },
+  {
+    "path": "assets/wrap/PaneerWrap.jpeg",
+    "size": [
+      1000,
+      668
+    ],
+    "old_sha256": "8b2839082e8afbbeb90312223d95d28ae15d15658871465dc3fecd539c61df8b",
+    "old_size": [
+      1000,
+      668
+    ]
+  },
+  {
+    "path": "assets/wrap/spicychickenwrap.jpeg",
+    "size": [
+      1000,
+      778
+    ],
+    "old_sha256": "18e516c9cdf5d69611087a780d0f1513b652da0d7f0ffd74e70acf7d794f3667",
+    "old_size": [
+      1000,
+      778
+    ]
+  },
+  {
+    "path": "assets/wrap/SpicyPaneerWrap.jpeg",
+    "size": [
+      1000,
+      667
+    ],
+    "old_sha256": "a30c76f0c65edd7dfc444ac675122b3f7b939e3fcd49ccbac34a119d18dc1ef0",
+    "old_size": [
+      1000,
+      667
+    ]
+  },
+  {
+    "path": "assets/wrap/veggiesandwich.jpeg",
+    "size": [
+      1000,
+      560
+    ],
+    "old_sha256": "d99322076019a2d39698d1613ee29d60cf8e0601bdcdb17eb9485017e85f99a2",
+    "old_size": [
+      1000,
+      560
+    ]
+  }
+]
